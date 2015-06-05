@@ -1,4 +1,5 @@
 #!/bin/sh
+MY_DIR=`pwd`
 
 if [ -z $2 ];
 then
